@@ -31,11 +31,7 @@ footer:
     - name: LinkedIn
       link: http://linkedin.com/in/YourLinkedInUsername
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - name: RSS
-      link: /feed.xml
+      link: http://github.com/yangyating1998
 
 width: 850px
 
