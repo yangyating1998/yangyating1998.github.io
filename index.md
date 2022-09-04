@@ -6,9 +6,9 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Hello! I'm Yating Yang, a current graduate student at <a href="https://moody.utexas.edu">Moody College </a>, UT Austin, majoring in Communication Studies. 
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  My current research interests include health communication, dyadic communication, stress and psychological distress
 </p>
