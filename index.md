@@ -18,8 +18,8 @@ My current research interests include health communication, dyadic communication
 </p>
 
 <img
-            src="{{ profile_picture.src | absolute_url }}"
-            alt="{{ profile_picture.alt }}"
+            src="{{ /assets/img/nono.jpeg | absolute_url }}"
+            alt="{{ website picture }}"
             class="profile-pic"
           />
 
@@ -28,7 +28,7 @@ I have an adorable cat who looks like a raccoon (see picture in the right). I al
 </p>
 
 <img
-            src="{{ profile_picture2.src | absolute_url }}"
-            alt="{{ profile_picture2.alt }}"
+            src="{{ "/assets/img/profile-pic.jpg" | absolute_url }}"
+            alt="{{ website picture }}"
             class="profile-pic2"
           />
