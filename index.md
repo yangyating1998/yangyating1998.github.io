@@ -18,7 +18,7 @@ My current research interests include health communication, dyadic communication
 </p>
 
 <img
-            src="{{ /assets/img/nono.jpeg | absolute_url }}"
+            src="{{ "/assets/img/nono.jpeg" | absolute_url }}"
             alt="{{ website picture }}"
             class="profile-pic"
           />
