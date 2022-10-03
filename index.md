@@ -13,7 +13,7 @@ Hello! I'm Yating Yang, a current graduate student at <a href="https://moody.ute
 </p>
 
 <p>
-My current research interests include health communication, dyadic communication, and identity and equality. I believe the constructive power of communication and enjoy the journey of exploring the unknown and contributing to discipline development and practical application of communication.
+My current research interests include health communication, dyadic communication, identity, and equality. I am particularly interested in studying the role of communication in changing environments. I believe the constructive power of communication and enjoy the journey of exploring the unknown and contributing to discipline development and practical application of communication.
 </p>
 
 <p>
