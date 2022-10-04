@@ -14,7 +14,7 @@ header:
     - name: Home
       slug: /
     - name: Research
-    - name: Blog
+    - name: Teaching
     - name: CV
       slug: /cv_yatingyang.pdf
 
