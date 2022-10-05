@@ -9,13 +9,13 @@ profile_picture2:
 ---
 
 <img
-            src="{{ "/assets/img/nono.jpeg" | absolute_url }}"
+            src="{{ "/assets/img/profile-pic.jpg" | absolute_url }}"
             alt="{{ website picture }}"
             class="profile-pic"
           />
 
 <p style="font-size: 16px">
-Hello! I'm Yating Yang, a current graduate student at <a href="https://moody.utexas.edu">Moody College </a>, UT Austin, majoring in Communication Studies. I got both my B.A. (major in communication) and my B.S. (major in finance) from Renmin University of China in 2016.
+Hello! I'm Yating Yang, a current graduate student at <a href="https://moody.utexas.edu">Moody College </a>, UT Austin, majoring in Communication Studies. I got both my B.A. (major in communication) and my B.S. (major in finance) from <a href="https://www.ruc.edu.cn/en">Renmin University of China </a> in 2016.
 </p>
 
 <p style="font-size: 16px">
@@ -23,13 +23,13 @@ My current research interests include health communication, dyadic communication
 </p>
 
 <img
-            src="{{ "/assets/img/profile-pic.jpg" | absolute_url }}"
+            src="{{ "/assets/img/nono.jpeg" | absolute_url }}"
             alt="{{ website picture }}"
             class="profile-pic2"
           />
 
 <h3>
-More details about me
+More about me
 </h3>
 
 <p style="font-size: 16px">
