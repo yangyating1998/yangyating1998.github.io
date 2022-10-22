@@ -9,7 +9,7 @@ profile_picture2:
 ---
 
 <img
-            src="{{ "/assets/img/profile-pic.jpg" | absolute_url }}"
+            src="{{ "/assets/img/yating.jpeg" | absolute_url }}"
             alt="{{ website picture }}"
             class="profile-pic"
           />
