@@ -19,19 +19,16 @@ header:
       slug: /cv_yatingyang.pdf
 
 footer:
-  show_powered_by: true
+  show_powered_by: false
   contact:
     - name: Email
       value: yangyating@utexas.edu
       link: mailto:yangyating@utexas.edu
   follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
     - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
-    - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: https://www.facebook.com/profile.php?id=100068247073289
+    - name: Instgram
+      link: https://instagram.com/yatingyang124?igshid=YmMyMTA2M2Y=
     - name: GitHub
       link: http://github.com/yangyating1998
 
