@@ -15,11 +15,11 @@ profile_picture2:
           />
 
 <p style="font-size: 16px">
-Hello! I'm Yating Yang, a current graduate student at <a href="https://moody.utexas.edu">Moody College </a>, UT Austin, majoring in Communication Studies. I got both my B.A. (major in communication) and my B.S. (major in finance) from <a href="https://www.ruc.edu.cn/en">Renmin University of China </a> in 2020.
+Hello! I'm Yating Yang, a current graduate student at <a href="https://moody.utexas.edu">Moody College</a>, (UT Austin), majoring in Communication Studies. I got both my B.A. (major in communication) and my B.S. (major in finance) from <a href="https://www.ruc.edu.cn/en">Renmin University of China </a> in 2020.
 </p>
 
 <p style="font-size: 16px">
-My current research interests include health communication, dyadic communication, identity, and equality. I am particularly interested in studying the role of communication in changing environments. I believe the constructive power of communication and enjoy the journey of exploring the unknown and contributing to discipline development and practical application of communication.
+My current research interests include health communication, identity, and equality. I am particularly interested in studying the role of communication in improving people's health. I can see the significance and potentials of communication in maintaining or changing people’s beliefs and actions. Also, I am enthusiastic about my future academic work around exploring the role of communication in promoting people’s health.
 </p>
 
 <img
