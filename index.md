@@ -15,7 +15,7 @@ profile_picture2:
           />
 
 <p style="font-size: 16px">
-Hello! I'm Yating Yang, a current graduate student at <a href="https://moody.utexas.edu">Moody College</a>, (UT Austin), majoring in Communication Studies. I got both my B.A. (major in communication) and my B.S. (major in finance) from <a href="https://www.ruc.edu.cn/en">Renmin University of China </a> in 2020.
+Hello! I'm Yating Yang, a current graduate student at <a href="https://moody.utexas.edu">Moody College</a> (UT Austin), majoring in Communication Studies. I got both my B.A. (major in communication) and my B.S. (major in finance) from <a href="https://www.ruc.edu.cn/en">Renmin University of China </a> in 2020.
 </p>
 
 <p style="font-size: 16px">
