@@ -13,8 +13,8 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Research
-    - name: Teaching
+    #- name: Research
+    #- name: Teaching
     - name: CV
       slug: /cv_yatingyang.pdf
 
